@@ -1,0 +1,16 @@
+[package]
+name = "abr"
+version = "0.1.0"
+authors = ["Fenhl <fenhl@fenhl.net>"]
+description = "Calculates the path for Wurstmineberg's All-Biome Railway."
+homepage = "https://wurstmineberg.de/wiki/advancements"
+edition = "2018"
+
+[dependencies]
+itertools = "0.9"
+j4rs = "0.11"
+parking_lot = "0.11"
+rayon = "1"
+
+[dependencies.mcanvil]
+git = "https://github.com/wurstmineberg/rust-anvil"
