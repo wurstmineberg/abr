@@ -1,0 +1,1 @@
+This is a helper tool for planning the All-Biome Railway, a minecart track planned to be built as part of [Project Advancements](https://wurstmineberg.de/wiki/advancements) for [Adventuring Time](https://minecraft.gamepedia.com/Advancement#Adventuring_Time).
